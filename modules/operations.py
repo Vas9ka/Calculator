@@ -20,7 +20,6 @@ class Operations:
         return math.sin(a)
     def Cos(self,a):
         return math.cos(a)
-    '''
     def Tan(self,a):
         return math.tan(a)
-    '''
+    
