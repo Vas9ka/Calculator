@@ -14,9 +14,9 @@ class Operations:
  
     def Expo(self,a,b):
         return a ** b
-    '''
     def Log(self,a):
         return math.log(a)
+    '''
     def Sin(self,a):
         return math.sin(a)
     def Cos(self,a):
