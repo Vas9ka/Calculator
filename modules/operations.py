@@ -18,9 +18,9 @@ class Operations:
         return math.log(a)
     def Sin(self,a):
         return math.sin(a)
-    '''
     def Cos(self,a):
         return math.cos(a)
+    '''
     def Tan(self,a):
         return math.tan(a)
     '''
