@@ -11,10 +11,10 @@ class Operations:
             return a / b
         except ZeroDivisionError:
             print("Can't divide by zero!")
-
-    ''' 
+ 
     def Expo(self,a,b):
         return a ** b
+    '''
     def Log(self,a):
         return math.log(a)
     def Sin(self,a):
